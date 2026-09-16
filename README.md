@@ -17,8 +17,10 @@ A custom, from-scratch operating system kernel built for the **x86_64** architec
 
 ### 🛠️ My Ecosystem & Tools
 
-- **Core Tech:** <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" style="vertical-align: middle;" height="22"/> (Learning), <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="vertical-align: middle;" height="22"/> & <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="vertical-align: middle;" height="22"/> (Learning)
-- **Environment:** VSCodium (Running a custom-configured Rust IDE setup) on Windows
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+- **Core Tech:** Actively learning systems development, Git architectures, and repository management.
+- **Environment:** VSCodium (Running a custom-configured Rust IDE setup) on Windows. 
 - **Open Source Fandom:** Huge fan and supporter of **GCC** and the **KDE** ecosystem.
 
 ---
