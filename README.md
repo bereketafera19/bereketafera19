@@ -26,9 +26,9 @@ A custom, from-scratch operating system kernel built for the **x86_64** architec
 ### 📊 GitHub Activity
 
 <!-- Sleek dark mode stats that update automatically -->
-![Bereket's GitHub stats](https://github-stats-extended.vercel.app/api?username=bereketafera19)
+![Bereket's GitHub stats](https://github-stats-extended.vercel.app/api?username=bereketafera19&theme=tokyonight)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api?username=anuraghazra)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=bereketafera19&theme=tokyonight)
 
 ---
 
