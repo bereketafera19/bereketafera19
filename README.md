@@ -7,11 +7,7 @@ I am a 15-year-old self-taught systems programmer building the next generation o
 ### 🌌 Current Focus & Roadmaps
 
 #### 🔷 The Hyphen Language & HyC Compiler
-I am currently learning **Rust** to build **Hyphen**, a programming language designed to combine the blistering speed of C/C++ with the elegant simplicity of Python. 
-- **HyC.MSA** *(Massive System Applications)*: A powerful, built-in standard library allowing developers to build full-stack desktop, mobile, and backend apps with zero external dependencies.
-
-#### 💿 The Diameter OS (Future Project)
-A custom, from-scratch operating system kernel built for the **x86_64** architecture. Once the Hyphen language stabilizes, I plan to assemble a dedicated engineering team to bring Diameter to life.
+I am currently learning **Rust** to build **Hyphen**, a programming language designed to combine the blistering speed of C/C++ with the elegant simplicity of Python, and rich with built-in libraries that enable developers to build mobile and desktop apps and CLI tools without external dependencies. 
 
 ---
 
@@ -27,7 +23,6 @@ A custom, from-scratch operating system kernel built for the **x86_64** architec
 
 ### 📊 GitHub Activity
 
-<!-- Sleek dark mode stats that update automatically -->
 ![Bereket's GitHub stats](https://github-stats-extended.vercel.app/api?username=bereketafera19&theme=tokyonight)
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=bereketafera19&theme=tokyonight)
